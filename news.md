@@ -3,6 +3,6 @@ layout: single
 ---
 
 
-# heading 1
+# News
 ## heading 2
 ### heading 3
